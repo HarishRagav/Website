@@ -1,0 +1,144 @@
+
+body{
+  text-align:center;
+  margin:0;
+  font-family: 'Arima Madurai', cursive;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 10px;
+  height:10%;
+  color:grey;
+}
+
+h1{
+  font-size: 5.625rem;
+  text-align: center;
+  position: relative;
+  color:#66BFBF;
+  display: inline-block;
+  font-family: 'Sacramento', cursive;
+  /*font-family: 'Bad Script', cursive;*/
+  margin:50px auto 0 auto;
+  }
+
+h2{
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Slabo 27px', serif;
+}
+a{
+  color: #11999E;
+}
+p{
+
+  color:black;
+  text-align:center;
+  margin:0;
+  font-size: 20px;
+}
+span{
+  text-decoration: underline;
+}
+
+  /*********************************doted tags*************************/
+.title-para{
+  color:#66BFBF;
+  font-size: 2.5rem;
+  margin:0;
+  font-weight: normal;
+  line-height: 2px;
+}
+.myskills{
+  font-size: 30px;
+  font-family: 'Bad Script', cursive;
+
+}
+.skills{
+  margin-top: 0;
+  margin-bottom: 100px;
+}
+.para-1{
+  text-align: left;
+  line-height:2;
+
+}
+.para-2{
+  text-align: left;
+  margin-right: 30px;
+  line-height:2;
+
+}
+
+.Profile-picture{
+  margin-top: 10px;
+  width: 200px;
+}
+
+.skill-row-1{
+  width:50%;
+  display:inline-block;
+  margin:100 auto 100px auto;
+  font-size: 20px;
+  text-align: left;
+}
+
+.skill-row-2{
+  margin:100 auto 100px auto;
+  display: inline-block;
+  width: 50%;
+  font-size: 20px;
+  text-align:left;
+
+}
+
+.computer{
+  width: 200px;
+  border-radius: 100px;
+  margin:20px auto 100px auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill{
+  width: 200px;
+  margin:100px auto 100 auto;
+  float:right;
+  margin-left: 30px;
+}
+
+.top-container{
+  background-color: #dbf6e9;
+}
+
+.top-cloud{
+  position: relative;
+  left:280px;
+}
+.Profile-picture{
+  border-radius: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:240px;
+}
+
+/*************************Hover tags***************************/
+/*
+h1:hover
+{
+  color:white;
+}
+p:hover{
+  color: blue;
+}
+.title-para:hover{
+  color:black;
+}
+*/
